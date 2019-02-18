@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to Transfer Music From iPhone to Android
-description: >
-    Keep your tunes wherever you roam
+description: Keep your tunes wherever you roam
+image: /assets/images/ap1.jpg
 published: true
 ---
 
