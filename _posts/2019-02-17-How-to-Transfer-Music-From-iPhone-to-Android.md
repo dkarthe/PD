@@ -2,11 +2,9 @@
 layout: post
 title: How to Transfer Music From iPhone to Android
 description: Keep your tunes wherever you roam
-image: /assets/images/ap1.jpg
+image: https://images.unsplash.com/photo-1547479117-60c805aba44d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 published: true
 ---
-
-![ap1](/assets/images/ap1.jpg)
 
 * Finding out how to transfer music from iPhone to Android may seem challenging, but there are a couple of methods allowing you to transfer your music in a simple manner, regardless of whether you're using Windows or macOS.
 
