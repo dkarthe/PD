@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Moto G7 Power with 5,000mAh battery launched in India: Price, specifications and features
+title: "Moto G7 Power with 5,000mAh battery launched in India: Price, specifications and features."
 image: assets/images/motog7.jpg
-author: [author1]
 ---
 > Motorola unveiled its Moto G7 family, including Moto G7 Plus, Moto G7 Power, Moto G7 Play and Moto G7, earlier this month in Brazil. The company has now launched one of the four smartphones, called Mo
 * Motorola unveiled its Moto G7 family, including Moto G7 Plus, Moto G7 Power, Moto G7 Play and Moto G7, earlier this month in Brazil. The company has now launched one of the four smartphones, called Moto G7 Power, in India. At the moment, there is no information on when the company is planning to launch the other three Moto G7 phones on the Indian shores.
