@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How to Use Your Android Device as a Mouse, Keyboard, Joystick
-description: >
-    Transform your phone into a wireless mouse, keyboard and trackpad for your computer, it enables you to control your PC/Mac/Linux effortlessly through a local network connection. Media controller, presentation controller and remote file explorer are all in this controller app. 
+description: > Transform your phone into a wireless mouse, keyboard and trackpad for your computer, it enables you to control your PC/Mac/Linux effortlessly through a local network connection. Media controller, presentation controller and remote file explorer are all in this controller app. 
 keyword: [android, wireless mouse]
+image: https://raw.githubusercontent.com/dkarthe/PD/master/assets/images/wm.png
 published: ture
 ---
 
