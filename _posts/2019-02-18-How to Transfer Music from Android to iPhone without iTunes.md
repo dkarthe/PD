@@ -3,6 +3,7 @@ layout: post
 title: How to Transfer Music from Android to iPhone without iTunes
 description: We need an app that works on the iPhone and lets you transfer all your music files from Android to iPhone
 keyword: [iTunes,Music,Android,iPhone,Transfer]
+image: (/assets/images/a2i.jpg)
 published: true
 ---
 
@@ -16,7 +17,7 @@ published: true
 Download [Cloud Player](https://itunes.apple.com/us/app/cloud-music-player-listener/id1054011814?mt=8) (free) from the app store by clicking this link. Grant the app store permission to install the app and when it finishes
 ![0-1](assets/images/0-1.jpg)
 Launch the app, you’ll see a few options on the bottom of the screen. Tap **Sources** on the bottom left.
-![1-6](assets/img/blog/1-6.jpg)
+![1-6](assets/images/1-6.jpg)
 You get **WiFi Sources** as an option on the screen.
 
 There are other options you can choose to import like Google Drive and Dropbox.
