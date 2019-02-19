@@ -11,7 +11,6 @@ Thank you so much!
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 
-
 <!-- Identify your business so that you can collect the payments. -->
 <input type="hidden" name="business" value="7ED3PDUPWKCT4">
 
