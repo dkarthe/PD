@@ -3,7 +3,7 @@ title: "Buy me a coffee"
 permalink: "/buy-me-a-coffee.html"
 ---
 
-Hi! I am Sal, web designer & developer at WowThemes.net. The free items I create are my side projects and **Mundana for Jekyll** is one of them. You can find **all the work I release for free [here](https://www.wowthemes.net/category/free-themes-templates/)**. 
+Hi! I am KD, web designer & developer at this blog. The free items I create are my side projects and is one of them.
 
 You have my permission to use the free items I develop in your personal, commercial or client projects. If you'd like to reward my work, I would be honored and I could dedicate more time maintaining the free projects. 
 
@@ -12,11 +12,11 @@ Thank you so much!
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 
 <!-- Identify your business so that you can collect the payments. -->
-<input type="hidden" name="business" value="F8CU3MPC2LA72">
+<input type="hidden" name="business" value="7ED3PDUPWKCT4">
 
 <!-- Identify the message of the kind contributor. -->
 <input type="hidden" name="contributor-message" value="Your message">
-<textarea class="w-100 d-block p-2 mb-4" type="text" name="contributor-message" placeholder="Your message for @Sal"></textarea>
+<textarea class="w-100 d-block p-2 mb-4" type="text" name="contributor-message" placeholder="Your message for @KD"></textarea>
 
 <!-- Specify a Donate button. -->
 <input type="hidden" name="cmd" value="_donations">
