@@ -31,6 +31,7 @@ permalink: "/contact.html"
     <label>Email <input type="email" name="email" /></label>
   </p>
   <p>
+    <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>
     <button type="submit">Send</button>
   </p>
 </form>
