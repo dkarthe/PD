@@ -6,7 +6,7 @@ keyword: Samsung,Galaxy,S10
 description: Samsung India on Friday opened `pre-booking` for its newly-launched `Galaxy ‘S10’` series smartphones that will start from `Rs 55,900`.
 published: true
 ---
-Gurugram:`Samsung India` on Friday opened `pre-booking` for its newly-launched `Galaxy ‘S10’` series smartphones that will start from `Rs 55,900`.
+Gurugram: `Samsung India` on Friday opened `pre-booking` for its newly-launched `Galaxy ‘S10’` series smartphones that will start from `Rs 55,900`.
 ## Price And Specification 
 * The 1TB Galaxy S10+ smartphone will be available for Rs 1,17,900 while 512GB and 128 GB storage variants of S10+ will be priced at Rs 91,900 and Rs 73,900, respectively.
 * Priced at Rs 84,900, the 512 GB variant of Galaxy S10 will be available in prism white colour, whereas the 128 GB variant will cost Rs 66,900 in prism black, prism white and prism blue colours.
