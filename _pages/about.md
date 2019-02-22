@@ -9,10 +9,7 @@ Being launched in Nov 2018, **KD** is one of the fastest growing startups `perso
 
 We offer timely analysis and in-person experiences that form the basis of our professional articles. Our editorial section is a reflection of the emerging technology trends – ranging from the internet to desktop, startups to big companies, security, open source and more.
 
-**Please be free to send us your queries and suggestions. Your suggestion is our next update!! Mail us here: [Contact({{site.baseurl}}/contact.html) **
-
-
-- 100% Github Pages Compatibility
+**Please be free to send us your queries and suggestions. Your suggestion is our next update!!** [Contact](kd.ax/contact.html)
 
 Made with <i class="fa fa-heart text-danger"></i> by [@KD](https://www.kd.ax/).
 
