@@ -202,13 +202,13 @@ description: "A great modern UI developed by KD @dkaarthik."
                 <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
               {% endif %}
 
-              {% for page in (1..paginator.total_pages) %}
+              {% for page in (1.paginator.total_pages) %}
                 {% if page == paginator.page %}
                 <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
                 {% elsif page == 1 %}
                 <li class="page-item"><a class="page-link" href="/">{{ page }}</a></li>
                 {% else %}
-                <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+                <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend:  | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
                 {% endif %}
               {% endfor %}
 
