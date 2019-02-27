@@ -13,9 +13,10 @@ published: true
 Former CBDT Chairman Sushil Chandra had recently said that just 23 crore PAN card holders-- over half of the total PAN card holders -- have so far linked their cards with biometric ID Aadhaar.
 
 **Here’s how to check whether your PAN card is linked to Aadhaar:**
-1) [Visit](incometaxindiaefiling.gov.in) and click on “link Aadhaar” under the “Quick Links” section on left.
 
-2) On top of the new page, click on `Click here`` option blinking in red and blue.
+1) [Visit](www.incometaxindiaefiling.gov.in) and click on “link Aadhaar” under the “Quick Links” section on left.
+
+2) On top of the new page, click on `Click here` option blinking in red and blue.
 
 3) A new page opens up where you are asked to enter `Aadhaar number and PAN number`.
 
