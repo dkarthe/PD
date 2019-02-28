@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Is your PAN card linked to your Aadhaar number? How to check
-image: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTVIEF.img?h=450&w=799&m=6&q=60&o=f&l=f&x=715&y=292
-categories: PANCARD,AADHARCARD
+image: >-
+  https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTVIEF.img?h=450&w=799&m=6&q=60&o=f&l=f&x=715&y=292
+categories: 'PANCARD,AADHARCARD'
 published: true
 ---
 **For those of you who have not linked their Aadhaar number with PAN card yet, you have time till 30 March. After upholding the constitutional validity of Aadhaar in September, the Supreme Court has now made it clear that Aadhaar-PAN card linking is mandatory for those filing income tax returns (ITR).**
@@ -23,4 +24,3 @@ Former CBDT Chairman Sushil Chandra had recently said that just 23 crore PAN car
 4) Enter Aadhaar number and PAN and you get to know whether it's linked or not.
 
 
-[link](www.incometaxindiaefiling.gov.in)
