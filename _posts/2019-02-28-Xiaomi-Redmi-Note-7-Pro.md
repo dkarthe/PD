@@ -3,7 +3,6 @@ layout: post
 title: Xiaomi Redmi Note 7 Pro launched in India
 image: https://tse3.mm.bing.net/th?id=OIP.iQ_GbpV9lg-zqOvrs5GzFgHaEM&pid=Api
 categories: xiaomi,mi
-featured: 1
 published: true
 ---
 ## The device goes on sale starting March 13 via mi.com and Flipkart.
