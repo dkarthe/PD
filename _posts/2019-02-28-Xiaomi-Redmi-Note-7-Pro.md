@@ -12,4 +12,5 @@ published: true
 * The Redmi Note 7 Pro comes with a 6.3-inch display with FHD+ (1,080 x 2,340 pixels) resolution ‘Dot Notch’ display. It is an LTPS in-cell display which also has 1.95mm tiny bezels. The device comes powered by an octa-core Qualcomm Snapdragon 675 SoC with up to 6GB RAM and 128GB internal storage.
 
 * Xiaomi has included 48-megapixel Sony IMX586 sensor on the Redmi Note 7 Pro instead of Samsung’s ICOSELL Bright GM1 seen on Redmi Note 7. The setup combines dual-lens on the rear with 48-megapixel Sony lens and a 5-megapixel depth sensor. Additionally, it gets PDAF, HDR, EIS, 1080p video recording, and super night scene mode like the Redmi Note 7.
+
 The front of the device gets a 12-megapixel camera sensor for selfies. In terms of connectivity, it includes Bluetooth v5.0, GPS, Wi-Fi, Infrared sensor, 3.5-mm audio socket, FM Radio, USB Type-C port, and dual VoLTE 4G-enabled nano-SIM slots.
