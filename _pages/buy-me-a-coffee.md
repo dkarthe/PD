@@ -38,5 +38,6 @@ Thank you so much!
 <input type="image" name="submit" border="0" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" alt="PayPal - The safer, easier way to pay online">
 </form>
 
+   **OR**
 
-![paywithme](/assets/images/paywithmeairtel.jpg)
+   ![paywithme](/assets/images/paywithmeairtel.jpg)
