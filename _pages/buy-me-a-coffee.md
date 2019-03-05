@@ -9,45 +9,8 @@ You have my permission to use the free items I develop in your personal, commerc
 
 Thank you so much!
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-
-<!-- Identify your business so that you can collect the payments. -->
-<input type="hidden" name="business" value="7ED3PDUPWKCT4">
-
-<!-- Identify the message of the kind contributor. -->
-<input type="hidden" name="contributor-message" value="Your message">
-<textarea class="w-100 d-block p-2 mb-4" type="text" name="contributor-message" placeholder="Your message for @KD"></textarea>
-
-<!-- Specify a Donate button. -->
-<input type="hidden" name="cmd" value="_donations">
-
-<!-- Specify details about the contribution -->
-<input type="hidden" name="item_name" value="Donation">
-<input type="hidden" name="item_number" value="Donation"> 
-<select name="amount">
-    <option value="5.00">$5.00</option>
-    <option value="10.00">$10.00</option>
-    <option value="25.00">$25.00</option>
-    <option value="50.00">$50.00</option>
-    <option value="100.00">$100.00</option>
-</select>
-<input type="hidden" name="currency_code" value="USD">
-
-<br/><br/>
-<!-- Display the payment button. -->
-<input type="image" name="submit" border="0" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" alt="PayPal - The safer, easier way to pay online">
-</form>
-
-   **OR**
-
    ![paywithme](/assets/images/paywithmeairtel.jpg)
 
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="7ED3PDUPWKCT4" />
-<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_IN/i/scr/pixel.gif" width="1" height="1" />
-</form>
 
 
