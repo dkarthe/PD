@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about.html"
 ---
 
-Hi, guys! The website you are previewing **KD's personal blog**. 
+Hi, guys! The website you are previewing **KD's personal blog**.<i class="fal fa-heart"></i>
 
 Being launched in Nov 2018, **KD** is one of the fastest growing startups `personal blog` in `India`. In a short span, We’ve been a leading source of technology news on the internet. As KD continues to expand its readership, we aim to provide in-depth reporting and redefining the digital media with the constant innovation.
 
