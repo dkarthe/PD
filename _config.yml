@@ -26,8 +26,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: kd
+      avatar: /assets/images/img.png
       
   # all pages
   - scope:
