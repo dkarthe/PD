@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Airtel offers free 10GB data to prepaid subscribers
-image: https://cdn.kalingatv.com/wp-content/uploads/2018/12/airtel.png
+image: assets/images/airtel.png
 keyword: [airtel,10gb,prepaid,offer]
 categories: Airtel
 published: true
