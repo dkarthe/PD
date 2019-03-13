@@ -1,4 +1,4 @@
 ---
-title: ebooks
-permalinks: /ebooks.html
+title: eBooks
+permalink: /ebooks.html
 ---
