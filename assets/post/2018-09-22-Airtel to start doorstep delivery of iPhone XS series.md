@@ -1,13 +1,9 @@
 ---
 layout: post
-current: post
-navigation: True
-class: post-template
+featured: true
 author: kd
 title: Airtel to start doorstep delivery of iPhone XS series from Sep 28
-cover: /assets/img/blog/ap.jpg
-
-
+image: /assets/images/ap.jpg
 ---
 
 * Bharti Airtel announced, from Friday it will start doorstep delivery of premium smartphones iPhone X and iPhone XS Max from September 28 in 20-25 cities.
