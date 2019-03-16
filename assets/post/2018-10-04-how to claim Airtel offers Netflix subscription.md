@@ -1,16 +1,10 @@
 ---
 layout: post
-current: post
-navigation: True
-class: post-template
-author: vishnu
 title: Airtel offers Netflix subscription free for 3 months Here is how to claim?
-cover: /assets/img/blog/an.jpg
-
-
+cover: /assets/images/an.jpg
 ---
 
-Bharti Airtel is offering three month Netflix access for free to select postpaid users.
+`Bharti Airtel is offering three month Netflix access for free to select postpaid users.`
 
 * Bharti Airtel, the second-largest telecom player, announced in August that it will offer free Netflix access to select postpaid and broadband users. However, the Sunil Mittal-led company did not share details on how the service will work, and neither were the pricing details shared.  Now, more than a month later, the company has begun notifying its postpaid subscribers about free Netflix access.
 
