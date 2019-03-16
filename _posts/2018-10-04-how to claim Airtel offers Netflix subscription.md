@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Airtel offers Netflix subscription free for 3 months Here is how to claim?
-cover: /assets/images/an.jpg
+image: /assets/images/an.jpg
 ---
 
 `Bharti Airtel is offering three month Netflix access for free to select postpaid users.`
