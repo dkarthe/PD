@@ -1,12 +1,8 @@
 ---
 layout: post
-current: post
-navigation: True
-class: post-template
 author: kd
 title: How to Install Kodi on Android Mobile
-cover: /assets/img/blog/kodi.png
-
+cover: /assets/images/kodi.png
 ---
 
 * Whether you just want to manage the various media on your Android smartphone or tablet, or hope to stream content to and from multiple devices, Kodi's support for Android gives you a straight-forward way to do so.
@@ -20,7 +16,7 @@ If your Android smartphone or tablet fits the bill, you're ready to get started.
   * Alternatively, go straight to the Google Play page for the Kodi app.
 * After installing the Kodi app, you'll be ready to go and can start loading up your media library or add to the app, such as with Kodi add-ons for movies and TV.
 
- ![kodiand](/assets/img/blog/kodiand.jpg)
+ ![kodiand](/assets/images/kodiand.jpg)
 
 * Installing Kodi for Android tablets is the same process as it is for smartphones. However, one case where the experience may differ is when the device doesn't have the official Google Play Store app. While this may be rare for smartphones and tablets from major manufacturers, Kodi still has a way for you to install the Android app without the Google Play Store.
 ## How to Install Kodi on Android Without Google Play (Sideloading)
