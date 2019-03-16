@@ -30,6 +30,6 @@ image: assets/images/whatsapp.jpg
 
 ## Download the latest version of Whatsapp here:
 
- <a href="https://play.google.com/store/apps/details?id=com.whatsapp&hl=en_IN"> ![Android](/assets/img/blog/and.jpg)</a>
+ <a href="https://play.google.com/store/apps/details?id=com.whatsapp&hl=en_IN"> ![Android](/assets/images/and.jpg)</a>
 
- <a href="https://itunes.apple.com/us/app/whatsapp-messenger/id310633997?mt=8"> ![Android](/assets/img/blog/ios.jpg)</a>
+ <a href="https://itunes.apple.com/us/app/whatsapp-messenger/id310633997?mt=8"> ![Android](/assets/images/ios.jpg)</a>
