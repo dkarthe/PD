@@ -14,7 +14,7 @@ App dev's offer an incredibly diverse array of options to customize your Android
 * You use it to automate a variety of tasks.
 * It works almost seamlessly between 600 different apps, including Google Assistant and Amazon Alexa.
 
-![ifttt2](/assets/imagesifttt2.jpg)
+![ifttt2](/assets/images/ifttt2.jpg)
 
 * You can have it do a variety of things and there are a ton of IFTTT recipes on the web.
 * This app customizes the stuff that your phone does rather than how it looks.
