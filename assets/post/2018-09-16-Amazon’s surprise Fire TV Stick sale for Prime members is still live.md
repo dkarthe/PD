@@ -1,15 +1,12 @@
 ---
 layout: post
-current: post
-navigation: True
-class: post-template
+featured: True
 author: kd
 title: Amazon's Fire stick Giveaway!!!
-cover: /assets/img/blog/amzntv.jpg
-
+image: assets/images/amzntv.jpg
 ---
 
-Amazon's giveaway is now offering a price tag of $24.99 for prime members. Never miss a chance !! Grab 'em now!!
+`Amazon's giveaway is now offering a price tag of $24.99 for prime members. Never miss a chance !! Grab 'em now!!`
 
 > We loved with a love that was more than love
 
