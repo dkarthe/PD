@@ -1,12 +1,9 @@
 ---
 layout: post
-current: post
-navigation: True
-class: post-template
+tags: [featured]
 author: kd
 title: How to update OnePlus 6 Android 9 Pie update
-cover: /assets/img/blog/onep.jpg
-
+image: /assets/images/onep.jpg
 ---
 
 This is some good news for OnePlus 6 users. The company has started rolling out the latest Android 9 Pie update to users of its flagship smartphone. With Android 9 Pie, OnePlus 6 now runs OxygenOS 9.0.
