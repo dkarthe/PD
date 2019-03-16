@@ -1,12 +1,8 @@
 ---
 layout: post
-current: post
-navigation: True
-class: post-template
-author: kd
+featured: true
 title: Flipkart introduces 'Cardless Credit' to help customers buy now and pay later
-cover: /assets/img/blog/fk.jpg
-
+image: /assets/images/fk.jpg
 ---
 
 The new feature is meant to help buyers who don't have credit cards, and will offer up to Rs 60,000 in short-term credit to customers.
@@ -15,7 +11,7 @@ The new feature is meant to help buyers who don't have credit cards, and will of
 
 * Flipkart says that it is introducing this product in order to fill a large gap in the Indian shopping space – easy access to credit. According to the company, only around 20 million people in India have credit cards, while the economy largely functions on direct payments using cash, cheques and debit cards. Many customers might be able to make certain purchases if they are given the benefit of small-scale credit, which the company hopes to fulfill with this new product.
 
-![fk1](/assets/img/blog/fk1.jpg)
+![fk1](/assets/images/fk1.jpg)
 
 * It also touts ease of getting credit as a key feature, as compared to the long and often cumbersome process of getting a credit card from your bank. Furthermore, banks often reject credit card applications on grounds of poor credit-worthiness. Flipkart promises to offer some level of credit, based on scores derived from customer behaviour on the platform.
 
