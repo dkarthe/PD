@@ -1,14 +1,11 @@
 ---
 layout: post
-current: post
-navigation: True
-class: post-template
+featured: True
 author: kd
 title: How to file income tax returns using Xiaomi smartphone
-cover: /assets/img/blog/mi.jpg
-
+image: /assets/images/mi.jpg
 ---
-Xiaomi has integrated ClearTax into its Mi calendar, which will make it easier for you to file your ITR. Here's how you can use it.
+`Xiaomi has integrated ClearTax into its Mi calendar, which will make it easier for you to file your ITR. Here's how you can use it.`
 
 * If you are a salaried or self-employed individual in India, filing income tax returns is very important. The last day to file income tax for FY 2017-2018 is July 31, which is less than a week away. If you haven’t filed your income tax returns yet, and you have a Xiaomi smartphone, there’s a good news for you.
 
