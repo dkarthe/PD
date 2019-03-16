@@ -1,8 +1,8 @@
 ---
 layout: post
-title: BSNL Rs 99 entry-level broadband plan offers 45GB data at 20Mbps
+title: How to Get BSNL Rs 99 entry-level broadband plan offers 45GB data at 20Mbps
 author: kd
-cover: /assets/images/bsnl.jpg
+image: /assets/images/bsnl.jpg
 ---
 
 There are three other plans priced between Rs 199 and Rs 399.
