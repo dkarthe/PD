@@ -10,7 +10,8 @@ The name Android TV doesn't actually sound very Apple friendly. But surprisingly
 
 Download and install the AirScreen app on your Android TV.
 
-<a href="https://www.apkmonk.com/download-app/com.ionitech.airscreen/4_com.ionitech.airscreen_2018-08-29.apk/"> ![sm1](/assets/img/blog/sm1.png)</a>
+<a href="https://www.apkmonk.com/download-app/com.ionitech.airscreen/4_com.ionitech.airscreen_2018-08-29.apk/"></a>
+![sm1](/assets/images/sm1.png)
 
 
 If your TV doesn't have the Google Play Store, you can download the apk file and sideload the app.
