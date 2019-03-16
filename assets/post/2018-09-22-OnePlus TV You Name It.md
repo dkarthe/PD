@@ -1,12 +1,8 @@
 ---
 layout: post
-current: post
-navigation: True
-class: post-template
-author: vishnu
+tag: [featured]
 title: OnePlus TV You Name It
-cover: /assets/img/blog/oneplustv.jpg
-
+image: /assets/images/oneplustv.jpg
 ---
 The next product of OnePlus has been announced - "The OnePlus TV"
 
@@ -20,7 +16,7 @@ At this point, that’s my best guess. OnePlus could well be working on a smart 
 
 As mentioned above, *Google, Amazon and Apple* – three of the four largest, most valuable and most profitable companies in the world, mind you – are already in this segment. However, no matter which of the above you use, the experience is largely broken. While you will be able to use these three devices to offer some connectivity between your phone and TV, there are plenty of times when the experience fails on you for no apparent reason.
 
-![opt](/assets/img/blog/opt.jpg)
+![opt](/assets/images/opt.jpg)
 
 ## Here is how to Enter the naming contest:
 * Enter your proposed name for our TV product [HERE](https://goo.gl/forms/BRITrETgzkubXTNI3) before October 17.
