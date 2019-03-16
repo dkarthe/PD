@@ -1,12 +1,9 @@
 ---
 layout: post
-current: post
-navigation: True
-class: post-template
+tag: [featured]
 author: kd
 title: WhatsApp brings inline preview of images and stickers in beta on Android Pie
-cover: /assets/img/blog/whtsap.jpg
-
+image: /assets/images/whtsap.jpg
 ---
 WhatsApp has been showing inline photos in notifications for a long time.
 
