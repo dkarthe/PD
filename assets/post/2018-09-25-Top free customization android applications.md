@@ -1,25 +1,20 @@
 ---
 layout: post
-current: post
-navigation: True
-class: post-template
-author: vishnu
 title: Must have customization Android Apps
-cover: /assets/img/blog/cus.jpg
-
+image: /assets/images/cus.jpg
 ---
 
 App dev's offer an incredibly diverse array of options to customize your Android phone, with launchers ranging from minimalist skins to those that put an explosive array of color on your smartphone.
 
 # IFTTT
 
-![ifttt](/assets/img/blog/IFTTT.png)
+![ifttt](/assets/images/IFTTT.png)
 
 * IFTTT is an exceptionally powerful app.
 * You use it to automate a variety of tasks.
 * It works almost seamlessly between 600 different apps, including Google Assistant and Amazon Alexa.
 
-![ifttt2](/assets/img/blog/ifttt2.jpg)
+![ifttt2](/assets/imagesifttt2.jpg)
 
 * You can have it do a variety of things and there are a ton of IFTTT recipes on the web.
 * This app customizes the stuff that your phone does rather than how it looks.
@@ -31,7 +26,7 @@ App dev's offer an incredibly diverse array of options to customize your Android
 
 # ZEDGE
 
-![zedge](/assets/img/blog/zedge.jpg)
+![zedge](/assets/images/zedge.jpg)
 
 * ZEDGE™ offers millions of free ringtones, notifications, HD wallpapers and icons to make your device one-of-a-kind.
 * With ZEDGE™, your phone is the ultimate conversation starter, transforming each call, text, and moment of screen time into an entertaining experience.
@@ -49,7 +44,7 @@ App dev's offer an incredibly diverse array of options to customize your Android
 
 # GB Insta
 
-![gbi](/assets/img/blog/gbi.jpg)
+![gbi](/assets/images/gbi.jpg)
 
 * Instagram is good in terms of privacy and you can share your images and videos and no one can download it.
 * The only way you can download the image is by taking a screenshot and they need to crop the images which is really a big task and no one wants to work that hard on cropping the image and save it on their phone.
@@ -61,7 +56,7 @@ App dev's offer an incredibly diverse array of options to customize your Android
 
 # GB Whatsapp
 
-![gbw](/assets/img/blog/gbw.png)
+![gbw](/assets/images/gbw.png)
 
 * GBWhatsapp is a modified version of Whatsapp with most recent and new features.
 * Features like hiding the last seen, blue tick marks and also new themes.
@@ -87,13 +82,13 @@ App dev's offer an incredibly diverse array of options to customize your Android
 
 # Zooper Widget
 
-![zooper](/assets/img/blog/zooper.png)
+![zooper](/assets/images/zooper.png)
 
 * Minimal, classy, extremely customizable, and battery friendly "Do It Yourself" widget with almost limitless possibilities!
 * You can customize each and every pixel of your home-screen with what you want.
 * Zooper Widget provides Tons of features for customization.
 
-![zooper1](/assets/img/blog/zooper1.jpg)
+![zooper1](/assets/images/zooper1.jpg)
 
 
 ## Here are some of the FREE FEATURES:
