@@ -2,7 +2,7 @@
 layout: post
 title: How to Get iPhone Emojis for Your Android
 author: kd
-cover: /assets/images/emoji.jpg
+image: /assets/images/emoji.jpg
 ---
 `HTC or Android users, quickly update your old emojis`
 
