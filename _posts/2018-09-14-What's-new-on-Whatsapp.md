@@ -16,7 +16,7 @@ image: assets/images/whatsapp.jpg
 
 ## Whatsapp Payment
 
- ![Whatsapp](/assets/imges/whatsappupi.JPG)
+ ![Whatsapp](/assets/images/whatsappupi.JPG)
 
    * This cool feature has been introduced after being tested for months very securely.
    * This feature works on the basis of **UPI** which transfers money instantly.
