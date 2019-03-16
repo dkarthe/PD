@@ -1,13 +1,9 @@
 ---
 layout: post
-current: post
-navigation: True
-class: post-template
+tag: [featured]
 author: kd
 title: How to Transfer Music From iPhone to Android
-cover: /assets/img/blog/ap1.jpg
-
-
+image: /assets/images/ap1.jpg
 ---
 
   Keep your tunes wherever you roam
@@ -30,7 +26,7 @@ cover: /assets/img/blog/ap1.jpg
 
 * Once you have all your songs synced to your iTunes Library, you can move forward with adding them to your Android device from your Windows computer.
 
-![cpy](/assets/img/blog/cpy.png)
+![cpy](/assets/images/cpy.png)
 
    1.Launch iTunes. Under the Library section, select the songs you'd like to transfer to your Android device.
    2.Copy the files to a new folder on your PC.
