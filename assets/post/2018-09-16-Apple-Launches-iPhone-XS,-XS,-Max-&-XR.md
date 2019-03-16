@@ -1,12 +1,9 @@
 ---
 layout: post
-current: post
-navigation: True
-class: post-template
+featured: True
 author: kd
 title: Apple Launches iPhone XS, XS Max And XR, Unveils Watch Series 4
-cover: /assets/img/blog/aixp.jpg
-
+image: assets/images/aixp.jpg
 ---
 
 The tech giant also launched Apple iPhone XS, XS Max and XR. Apple officially unveiled its next generation of Apple Watch.
