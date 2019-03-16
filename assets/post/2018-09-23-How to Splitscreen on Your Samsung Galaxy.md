@@ -1,12 +1,9 @@
 ---
 layout: post
-current: post
-navigation: True
-class: post-template
+tag: [featured]
 author: kd
 title: How to Splitscreen on Your Samsung Galaxy
-cover: /assets/img/blog/smsng.jpg
-
+image: /assets/images/msng.jpg
 ---
 
 Some good news for Samsung power users: You can now Netflix and game at the same time, thanks to a new Good Lock add-on called MultiStar.
