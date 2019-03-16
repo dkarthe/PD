@@ -2,7 +2,7 @@
 layout: post
 author: kd
 title: How to Install Kodi on Android Mobile
-image: /assets/images/kodi.png
+image: /assets/images/kodi.jpg
 ---
 
 * Whether you just want to manage the various media on your Android smartphone or tablet, or hope to stream content to and from multiple devices, Kodi's support for Android gives you a straight-forward way to do so.
