@@ -1,13 +1,11 @@
 ---
 layout: post
-current: post
 title: How to Get iPhone Emojis for Your Android
-class: post-template
 author: kd
-cover: /assets/img/blog/emoji.jpg
-navigation: true
+cover: /assets/images/emoji.jpg
 ---
 `HTC or Android users, quickly update your old emojis`
+
 * Even if you swear by your Android, you might still covet the emojis on your friend's iPhone. After all, they're pretty nifty. But while the emojis on Android devices and iPhones are technically the same, they have slight differences in design, and the iPhone emojis are really cool.
 
 * The good news is there are cool iOS emojis for Android, too, and they're easy to set up; no rooting required. All you have to do is install an app and you'll be on your way with your fancy new emojis in no time. Here's how to get iPhone emojis for Android so you can join the emoji fun.
