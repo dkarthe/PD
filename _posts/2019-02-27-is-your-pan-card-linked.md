@@ -9,7 +9,7 @@ published: true
 **For those of you who have not linked their Aadhaar number with PAN card yet, you have time till 30 March. After upholding the constitutional validity of Aadhaar in September, the Supreme Court has now made it clear that Aadhaar-PAN card linking is mandatory for those filing income tax returns (ITR).**
 * The Central Board of Direct Taxes (CBDT) had earlier allowed assessees time till 30 June to link their PAN cards with Aadhaar extended it to the end of the ongoing financial year.
 * Section 139 AA (2) of the Income Tax Act says that every person having a PAN as on July 1, 2017, and eligible to obtain Aadhaar, must intimate his Aadhaar number to the tax authorities.
-* The income tax department is expected to declare all unlinked PANs as void after 31 March so it is better to link them with Aadhaar numbers as soon as possible through the [link](www.incometaxindiaefiling.gov.in) website.
+* The income tax department is expected to declare all unlinked PANs as void after 31 March so it is better to link them with Aadhaar numbers as soon as possible through the (www.incometaxindiaefiling.gov.in) website.
 
 Former CBDT Chairman Sushil Chandra had recently said that just 23 crore PAN card holders-- over half of the total PAN card holders -- have so far linked their cards with biometric ID Aadhaar.
 
