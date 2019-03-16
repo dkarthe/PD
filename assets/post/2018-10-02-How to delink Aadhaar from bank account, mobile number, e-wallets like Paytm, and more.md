@@ -1,12 +1,8 @@
 ---
 layout: post
-current: post
-navigation: True
-class: post-template
 author: kd
 title: How to delink Aadhaar from bank account, mobile number, e-wallets like Paytm, and more
-cover: /assets/img/blog/aadhar.jpeg
-
+cover: /assets/images/aadhar.jpeg
 ---
 Now that it is no longer mandatory to link your Aadhaar with mobile and bank account, here’s a step by step process to delink.
 
