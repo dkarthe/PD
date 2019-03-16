@@ -1,12 +1,8 @@
 ---
 layout: post
-current: post
-navigation: True
-class: post-template
 author: kd
 title: How to earn cashbacks from Paytm,PhonePe and Mobikwik to refill Petrol,diesel
-cover: /assets/img/blog/mbkwk.jpg
-
+cover: /assets/images/mbkwk.jpg
 ---
 
 Are high fuel prices getting to you? Here's how to reduce the burden a bit
