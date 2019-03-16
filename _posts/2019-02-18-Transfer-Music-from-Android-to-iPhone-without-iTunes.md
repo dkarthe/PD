@@ -16,16 +16,20 @@ published: true
 
 Download [Cloud Player](https://itunes.apple.com/us/app/cloud-music-player-listener/id1054011814?mt=8) (free) from the app store by clicking this link. Grant the app store permission to install the app and when it finishes
 ![0-1](assets/images/0-1.jpg)
+
 Launch the app, you’ll see a few options on the bottom of the screen. Tap **Sources** on the bottom left.
 ![1-6](assets/images/1-6.jpg)
+
 You get **WiFi Sources** as an option on the screen.
 
 There are other options you can choose to import like Google Drive and Dropbox.
 ![2-5](assets/images/2-5.jpg)
+
 We’ll select **WiFi Transfer** to keep the relevance.
 
 As you tap the icon you’ll see **an IP address** with some instructions.
 ![3-1](assets/images/3-1.jpg)
+
 The instructions are ‘ keep your devices i.e. your **iPhone and the Android on the same network’**.
 
 If you’re at home and you’re connected to the same network, you’re good to go but if you don’t have a router you can simply create a wifi hotspot on your Android Device and connect your iPhone to it. **(Settings > Tethering and Portable Hotspot > Turn Hotspot ON)**
@@ -34,16 +38,20 @@ Once both the devices are on the same network, **open chrome on your Android** p
 
 The next screen that loads on your **Android** Device is the page on which you can **upload your music files** which will be synced to the iPhone.
 ![android](assets/images/android.jpg)
+
 Tap on **upload** files and **select all the music files** from your Android Device.
 ![android](assets/images/android2.jpg)
+
 The files are **uploaded instantly over the WiFi** but if you have a bunch of them you might have to wait for a few minutes.
 
 You can tap **Cancel** after files have downloaded on the iPhone by tapping the button in the top left corner.
 
 Now all the **files are downloaded to your Cloud Player** app now.
 ![4-2](assets/images/4-2.jpg)
+
 You can **listen to the songs** and create playlists, shuffle the playlists.
 ![7-2](assets/images/7-2.jpg)
+
 ## Alternatively
 **1. You can use Google Drive or Dropbox** – There are always alternative solutions and this method is one. Instead of downloading all these apps you can directly drop your files to your Dropbox or Google Drive and listen to all the music files and you can save the files offline.
 
