@@ -1,11 +1,8 @@
 ---
 layout: post
-current: post
-navigation: True
-class: post-template
-author: vishnu
-title: What's new on Whatsapp (v2.18.277)
-cover: /assets/img/blog/whatsapp.jpg
+featured: True
+title: What's new on Whatsapp 
+image: assets/imges/whatsapp.jpg
 ---
   
   Being the Worlds best Messenger, Whatsapp is out with yet an other update with two cool featues. After the beta version been tested they have officially released this update.
@@ -19,7 +16,7 @@ cover: /assets/img/blog/whatsapp.jpg
 
 ## Whatsapp Payment
 
- ![Whatsapp](/assets/img/blog/whatsappupi.JPG)
+ ![Whatsapp](/assets/imges/whatsappupi.JPG)
 
    * This cool feature has been introduced after being tested for months very securely.
    * This feature works on the basis of **UPI** which transfers money instantly.
