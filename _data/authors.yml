@@ -1,7 +1,7 @@
 kd:
   name:           KD
   site:           https://www.kd.ax
-  avatar:         /assets/images/img.png
+  avatar:         assets/images/img.png
   bio:            "Hi, I am KD, the author of this blog, the page you're currently previewing. I hope you like it!"
   email:          kd@datamail.in
   twitter:        https://twitter.com/dkaarthik
