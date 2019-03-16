@@ -2,7 +2,7 @@
 layout: post
 featured: True
 title: What's new on Whatsapp 
-image: assets/imges/whatsapp.jpg
+image: assets/images/whatsapp.jpg
 ---
   
   Being the Worlds best Messenger, Whatsapp is out with yet an other update with two cool featues. After the beta version been tested they have officially released this update.
