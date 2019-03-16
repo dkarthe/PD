@@ -15,7 +15,7 @@ Former CBDT Chairman Sushil Chandra had recently said that just 23 crore PAN car
 
 **Here’s how to check whether your PAN card is linked to Aadhaar:**
 
-1) [Visit](www.incometaxindiaefiling.gov.in) and click on “link Aadhaar” under the “Quick Links” section on left.
+1) (www.incometaxindiaefiling.gov.in) and click on “link Aadhaar” under the “Quick Links” section on left.
 
 2) On top of the new page, click on `Click here` option blinking in red and blue.
 
