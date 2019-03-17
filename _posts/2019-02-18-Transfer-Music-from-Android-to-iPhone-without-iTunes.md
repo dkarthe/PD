@@ -2,8 +2,8 @@
 layout: post
 title: "How to Transfer Music from Android to iPhone without iTunes"
 description: We need an app that works on the iPhone and lets you transfer all your music files from Android to iPhone
-keyword: [iTunes,Music,Android,iPhone,Transfer]
-image: https://images.unsplash.com/photo-1524821505188-18975b5a913f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=764&q=80
+keyword: iTunes,Music,Android,iPhone,Transfer
+image: assets/images/1.jpg
 published: true
 ---
 
