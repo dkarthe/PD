@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Is your PAN card linked to your Aadhaar number? How to check
-image: >-
-  https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTVIEF.img?h=450&w=799&m=6&q=60&o=f&l=f&x=715&y=292
+image: assets/images/pan.jpg
 categories: 'PANCARD,AADHARCARD'
 published: true
 ---
