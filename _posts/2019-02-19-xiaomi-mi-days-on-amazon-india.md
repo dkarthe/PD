@@ -2,7 +2,7 @@
 layout: post
 title: "Xiaomi Mi Days sale on Amazon India: Discounts on Redmi 6A, Mi A2, Redmi 6 Pro, Mi smart TVs"
 description: The Amazon India sale is slated to end on February 23.
-image: https://www.themobileindian.com/resizer.php?src=/public/uploads/news/2017/11/19960/Mi6C.jpg&w=735&h=425
+image: assets/images/mi.jpg
 published: true
 ---
 `Amazon India` is hosting `Mi Days` sale and is offering captivating discounts, exchange offers and no-cost EMI on several Xiaomi devices. Meanwhile, Flipkart is also hosting its five-day Mobiles Bonanza sale, where the e-commerce giant is offering attractive discounts on Apple, Samsung, Xiaomi, Realme and Asus devices.
