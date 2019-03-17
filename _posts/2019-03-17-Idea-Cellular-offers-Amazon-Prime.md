@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Idea Cellular offers 1 year free Amazon Prime with Nirvana postpaid plans
-image: /assets/images/ideaamzn.png
+image: assets/images/ideaamzn.png
 categories: amazon,idea,prime
 ---
 `Vodafone and Amazon already have an existing partnership running for Vodafone Red customers.`
