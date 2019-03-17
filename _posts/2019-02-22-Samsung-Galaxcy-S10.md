@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Samsung Opens Pre-booking For Its Galaxy 'S10'- Check Price And Specification Here
-image: https://images.unsplash.com/photo-1498661705887-3778d9ecb4ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+image: assets/images/smsng.jpg
 keyword: Samsung,Galaxy,S10
 description: Samsung India on Friday opened `pre-booking` for its newly-launched `Galaxy ‘S10’` series smartphones that will start from `Rs 55,900`.
 published: true
