@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Use 1Blocker to Hide Everything That Annoys You On Mobile Sites
-image: assets/images/1blckr.mp4
+image: https://i.kinja-img.com/gawker-media/image/upload/zaudf7kqns2g888x0hct.mp4
 ---
 * You’re browsing the web on your iPhone when you come across a pop-up box asking you to subscribe to a newsletter. You: A) frantically search for the little “X” to make it go away, B) Roll your eyes and press the back button to leave, or C) Wish you could get rid of those annoying pop-ups while still reading your favorite sites. 1Blocker, our favorite ad blocker on iOS, just rolled out a feature that makes option C much easier.
 
@@ -17,7 +17,7 @@ image: assets/images/1blckr.mp4
 
 This makes it super easy to customize certain web sites without totally blocking every ad or other annoyance on their site. You can do this with a variety of elements beyond pop-ups and ads. Let’s use Packed Party as an example again to get rid of those awkwardly placed social buttons.
 
-![1blocr2](assets/images/1blckr2.mp4)
+![1blocr2](https://i.kinja-img.com/gawker-media/image/upload/s--2rMpAhZY--/c_scale,fl_progressive,q_80,w_800/qtsiyhpsycsvbjjvsz9n.mp4)
 
 1.In Safari, tap the Share button, then tap 1Blocker.
 
