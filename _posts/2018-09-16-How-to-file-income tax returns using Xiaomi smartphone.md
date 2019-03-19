@@ -3,7 +3,7 @@ layout: post
 featured: True
 author: kd
 title: How to file income tax returns using Xiaomi smartphone
-image: /assets/images/mi.jpg
+image: assets/images/mi.jpg
 ---
 `Xiaomi has integrated ClearTax into its Mi calendar, which will make it easier for you to file your ITR. Here's how you can use it.`
 
@@ -17,7 +17,7 @@ image: /assets/images/mi.jpg
 ## Step One
 Open the Mi Calendar app and tap on July 31. It will show you a link that says “Last day to file ITR,” tap on that.
 
-![IT](/assets/img/blog/it.jpg)
+![IT](assets/img/blog/it.jpg)
 
 ## Step Two
 * You will be taken to a page that has the option to file income tax by yourself or get a CA to file the return on your behalf. Below this, you will also find links that talk about systemic investment plans (SIP), the benefits of filing ITR and an option to file without form 16.
