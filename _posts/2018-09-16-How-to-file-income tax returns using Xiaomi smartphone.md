@@ -17,7 +17,7 @@ image: assets/images/mi.jpg
 ## Step One
 Open the Mi Calendar app and tap on July 31. It will show you a link that says “Last day to file ITR,” tap on that.
 
-![IT](assets/img/blog/it.jpg)
+![IT](assets/images/blog/it.jpg)
 
 ## Step Two
 * You will be taken to a page that has the option to file income tax by yourself or get a CA to file the return on your behalf. Below this, you will also find links that talk about systemic investment plans (SIP), the benefits of filing ITR and an option to file without form 16.
