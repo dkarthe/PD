@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vodafone-Offers-50%-Discount-on-Amazon-Prime-Subscription
+title: Vodafone Offers 50% Discount on Amazon Prime Subscription
 image: assets/images/vdfn.jpg
 tag: [featured]
 ---
