@@ -58,8 +58,5 @@ compress_html:
   profile: false
   startings: []
 
-sass: 
-  style: compressed
-
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
