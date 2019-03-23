@@ -9,13 +9,13 @@ categories: 'PANCARD,AADHARCARD'
 
 * Section 139 AA (2) of the Income Tax Act says that every person having a PAN as on July 1, 2017, and eligible to obtain Aadhaar, must intimate his Aadhaar number to the tax authorities.
 
-* The income tax department is expected to declare all unlinked PANs as void after 31 March so it is better to link them with Aadhaar numbers as soon as possible through the [link](www.incometaxindiaefiling.gov.in)** website.
+* The income tax department is expected to declare all unlinked PANs as void after 31 March so it is better to link them with Aadhaar numbers as soon as possible through the **[link](https://www.incometaxindiaefiling.gov.in).**
 
 `Former CBDT Chairman Sushil Chandra` had recently said that just 23 crore PAN card holders-- over half of the total PAN card holders -- have so far linked their cards with biometric ID Aadhaar.
 
 **Here’s how to check whether your PAN card is linked to Aadhaar:**
 
-1) **[Website](www.incometaxindiaefiling.gov.in)** and click on `“link Aadhaar”` under the `“Quick Links”` section on left.
+1) **[Website](https://www.incometaxindiaefiling.gov.in)** and click on `“link Aadhaar”` under the `“Quick Links”` section on left.
 
 2) On top of the new page, click on `Click here` option blinking in red and blue.
 
