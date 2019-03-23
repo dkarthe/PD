@@ -49,7 +49,7 @@ ga: UA-129506902-1
 
 # Compress
 compress_html:
-  clippings: [img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  clippings: [img, script]
   comments: ["<!-- ", " -->"]
   endings: [all]
   ignore:
