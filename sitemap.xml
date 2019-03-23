@@ -1,182 +1,59 @@
+---
+layout: null
+sitemap:
+  lastmod: 2019-03-23
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'yes'
+---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://kd.ax/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://kd.ax/ebooks</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/about</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/contact</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/buy-me-a-coffee</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/spotify-hulu/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/pluralsight/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/categories</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/xiaomi-redmi-note-7-pro/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/is-your-pan-card-linked/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/airtel-offers-free-10gb-data-to-prepaid-subscribers/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/samsung-galaxcy-s10/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/xiaomi-mi-days-on-amazon-india/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/transfer-music-from-android-to-iphone-without-itunes/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/moto-g7-launched/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/how-to-transfer-music-from-iphone-to-android/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/page2/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/page3/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/pubg-update-22/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/how-to-splitscreen-on-your-samsung-galaxy/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/whatsapp-brings-inline-preview/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/oneplus-tv-you-name-it/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/oneplus-6-android-9-pie-update/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kd.ax/the-5-best-free-antivirus-software-of-2018/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kd.ax/powerful-things-markdown-editor/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kd.ax/pancard-details-in-tamil/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kd.ax/how-to-use-android-phone-as-a-wireless-mouse/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kd.ax/airtel-to-start-doorstep-delivery-of-iphone-xs-series/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kd.ax/how-to-lock-a-file-in-windows-10/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kd.ax/flipkart-introduces-cardless-credit/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kd.ax/how-to-file-income-tax-returns-using-xiaomi-smartphone/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kd.ax/apple-launches-iphone-xs,-xs,-max-&amp;-xr/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kd.ax/amazon-s-surprise-fire-tv-stick-sale-for-prime-members-is-still-live/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kd.ax/what's-new-on-whatsapp/</loc>
-  <lastmod>2019-03-16T06:51:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for post in site.posts %}
+    {% unless post.published == false %}
+    <url>
+      <loc>{{ site.url }}{{ post.url }}</loc>
+      {% if post.sitemap.lastmod %}
+        <lastmod>{{ post.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif post.date %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      {% if post.sitemap.changefreq %}
+        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
+      {% else %}
+        <changefreq>monthly</changefreq>
+      {% endif %}
+      {% if post.sitemap.priority %}
+        <priority>{{ post.sitemap.priority }}</priority>
+      {% else %}
+        <priority>0.5</priority>
+      {% endif %}
+    </url>
+    {% endunless %}
+  {% endfor %}
+  {% for page in site.pages %}
+    {% unless page.sitemap.exclude == "yes" %}
+    <url>
+      <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+      {% if page.sitemap.lastmod %}
+        <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif page.date %}
+        <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      {% if page.sitemap.changefreq %}
+        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
+      {% else %}
+        <changefreq>monthly</changefreq>
+      {% endif %}
+      {% if page.sitemap.priority %}
+        <priority>{{ page.sitemap.priority }}</priority>
+      {% else %}
+        <priority>0.3</priority>
+      {% endif %}
+    </url>
+    {% endunless %}
+  {% endfor %}
 </urlset>
