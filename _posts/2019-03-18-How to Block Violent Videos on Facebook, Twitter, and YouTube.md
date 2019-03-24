@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Block Violent Videos on Facebook, Twitter, and YouTube
-image: assets/images/ytb.png
+image: https://res.cloudinary.com/kd/image/upload/v1553438713/KD/ytb.png
 ---
 * Because it’s 2019, and livestreaming has had five years or so to really build up into a mainstream activity that people actually do, this means that horrific acts of violence and terror around the world have a greater-than-zero chance of having some video component attached to them. After all, now that plenty of people have the equivalent of a 4K video camera in their pockets, it’s just that easy to shoot and share anything—even the very worst things—with the world.
 
@@ -11,7 +11,7 @@ image: assets/images/ytb.png
 
 If you want to give yourself a little extra peace of mind, however, here are a few steps you can take:
 
-![twtr](assets/images/twtr.png)
+ ![twtr](/assets/images/twtr.png)
 
 * Visit your Privacy and safety page and make sure “Hide sensitive content” is checked.
 * Also, make sure that “Display media that may contain sensitive content” is unchecked.
@@ -19,13 +19,13 @@ If you want to give yourself a little extra peace of mind, however, here are a f
 * On iOS or Android, pull up Twitter’s settings and tap on “Data usage.” Tap on the “Video autoplay” option and set it to “Never” to ensure that you aren’t accidentally surprised by something you didn’t want to see—on your smartphone, at least.
 * Don’t forget to report any sensitive videos you come across.
 
-![fb](assets/images/fb.png)
+ ![fb](/assets/images/fb.png)
 
 * Visit the “Videos” section of Facebook’s settings and switch “Auto-Play Videos” to “off.”
 * You’ll find a similar setting in Facebook’s mobile app. Pull up its Settings, and then scroll down until you see the “Media and contacts” section. Tap on “Videos and Photos” to find the option for turning autoplay off.
 * Report offensive content.
 
-![yutb](assets/images/yutb.png)
+ ![yutb](/assets/images/yutb.png)
 
 * You can try activating YouTube’s Restricted Mode, which is going to give you a decently sanitized version of the site on a single browser. Tap on your icon in the upper-right corner of your desktop browser and look at the very bottom of the menu that appears.
 * On the mobile version of the YouTube app, tap on your icon in the upper-right and then tap on “Settings” to find the Restricted Mode toggle. You can also turn off various Autoplay features in the similarly named section of your Settings screen.
