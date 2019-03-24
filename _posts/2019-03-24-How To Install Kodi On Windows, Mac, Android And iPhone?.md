@@ -3,6 +3,7 @@ layout: post
 title: How To Install Kodi On Windows, Mac, Android And iPhone?
 image: https://res.cloudinary.com/kd/image/upload/v1553352960/KD/kodi.jpg
 ---
+
 * With cord cutting on the rise, Kodi, the XBMC-owned media player, has become one of the most sought after means to access movies, tv shows, and live TV. The latest Kodi update Kodi 18 has brought several features to improve the overall user experience for streaming video content. You can read more about Kodi 18 features in our detailed article.
 
 * For those who are unaware of how Kodi works, it is simply a media player that doesn’t come loaded with content. You have to download and install Kodi repositories and add-ons to stream content.
@@ -41,7 +42,7 @@ You require Windows Vista or above to run Kodi on PC. Also, XBMC has provided Ko
  
  4. Once downloaded, drag-and-drop it to Applications folder and click on open to launch Kodi.
  
- ## Installing Kodi On Android
+## Installing Kodi On Android
 
 * You can also enjoy Kodi on Android smartphone. To run Kodi on Android platform, XBMC has provided an official Kodi app that can be downloaded from the [Google Play Store](https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=en_US).
 
@@ -57,7 +58,7 @@ You require Windows Vista or above to run Kodi on PC. Also, XBMC has provided Ko
  
  4.Once downloaded and installed, open the app, and grant it the permission to access your device’s media and files. To setup Kodi on Android, you simply have to download repositories and addons to start streaming video content of your choice.
  
- ## Installing Kodi On iPhone
+## Installing Kodi On iPhone
  
   ![kodi-iphone](https://res.cloudinary.com/kd/image/upload/v1553352955/KD/kodi-iphone.jpg)
  
