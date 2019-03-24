@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vodafone Offers 50% Discount on Amazon Prime Subscription
-image: assets/images/vdfn.jpg
+image: https://res.cloudinary.com/kd/image/upload/v1553438832/KD/vdfn.jpg
 tag: [featured]
 ---
 ## Vodafone India has launched a new offer for its prepaid customers in which it is offering a 50 percent discount on Amazon Prime membership.
