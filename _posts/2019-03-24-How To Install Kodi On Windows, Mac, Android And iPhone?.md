@@ -13,7 +13,7 @@ image: https://res.cloudinary.com/kd/image/upload/v1553352960/KD/kodi.jpg
 
 * Getting Kodi loaded up on a PC running Windows is effortless. Here are the steps you need to follow if you want to enjoy Kodi on PC.
 
- ![kodi-windows](https://res.cloudinary.com/kd/image/upload/v1553352958/KD/kodi-windows.jpg)
+  ![kodi-windows](https://res.cloudinary.com/kd/image/upload/v1553352958/KD/kodi-windows.jpg)
 
  1. Visit the official Kodi website [Kodi.tv](https://kodi.tv/) and select ‘Download’ option from the menu on the top right side of the website.
 
@@ -29,7 +29,7 @@ You require Windows Vista or above to run Kodi on PC. Also, XBMC has provided Ko
 
 ## Installing Kodi On Mac
 
- ![kodi-Mac](https://res.cloudinary.com/kd/image/upload/v1553352958/KD/Kodi-Mac.jpg)
+  ![kodi-Mac](https://res.cloudinary.com/kd/image/upload/v1553352958/KD/Kodi-Mac.jpg)
 
 * If you have a macOS device and you want to run Kodi on it, there is a dedicated Kodi app for it. To install Kodi on Mac, here are the steps you need to follow.
 
@@ -45,7 +45,7 @@ You require Windows Vista or above to run Kodi on PC. Also, XBMC has provided Ko
 
 * You can also enjoy Kodi on Android smartphone. To run Kodi on Android platform, XBMC has provided an official Kodi app that can be downloaded from the [Google Play Store](https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=en_US).
 
- ![kodi-android](https://res.cloudinary.com/kd/image/upload/v1553352956/KD/Kodi-Android.jpg)
+  ![kodi-android](https://res.cloudinary.com/kd/image/upload/v1553352956/KD/Kodi-Android.jpg)
 
 * Kodi app for Android provides an interface similar to what is available on the Windows and Mac version of the media player. Here are steps to download Kodi for Android.
 
@@ -59,7 +59,7 @@ You require Windows Vista or above to run Kodi on PC. Also, XBMC has provided Ko
  
  ## Installing Kodi On iPhone
  
- ![kodi-iphone](https://res.cloudinary.com/kd/image/upload/v1553352955/KD/kodi-iphone.jpg)
+  ![kodi-iphone](https://res.cloudinary.com/kd/image/upload/v1553352955/KD/kodi-iphone.jpg)
  
 * Unlike Android, Kodi is not officially available for iOS devices. According to Kodi.tv, to run Kodi on iPhone you need to have a jailbroken iDevice with iOS 6.0 or above. If you have a jailbroken iPhone, you can download the Kodi app for iPhone by visiting the official website of Kodi.
 
