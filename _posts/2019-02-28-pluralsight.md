@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pluralsight-Earn a $20 gift card by learning new courses 
-image: https://i.vimeocdn.com/video/725179160_780x439.jpg
+image: https://res.cloudinary.com/kd/image/upload/v1553439809/KD/pluralsight.jpg
 categories: pluralsight,online course
 published: true
 ---
