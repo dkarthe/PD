@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to see how much time you waste on Facebook
-image: assets/images/fbspnd.jpg
+image: https://res.cloudinary.com/kd/image/upload/v1553438794/KD/fbspnd.jpg
 ---
 `You probably don't want to know, but it's a good idea you do.`
 
