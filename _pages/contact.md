@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+description: Contact. Do you have a question that you need an answer to or simply want to ask how we are doing. Fill out the form on our support page and we'll be sure to reply soon.
 permalink: "/contact.html"
 ---
 
