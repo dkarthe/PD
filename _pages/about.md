@@ -1,5 +1,6 @@
 ---
 title: "About"
+description: We offer timely analysis and in-person experiences that form the basis of our professional articles.
 permalink: "/about.html"
 ---
 
