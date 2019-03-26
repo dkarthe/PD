@@ -3,4 +3,10 @@ title: "eBooks"
 permalink: "/ebooks.html"
 ---
 
-# Soon To Be Here :) 
+
+<script type="text/javascript" language="javascript">
+      var aax_size='300x600';
+      var aax_pubname = 'kd01f-21';
+      var aax_src='302';
+    </script>
+    <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
