@@ -8,7 +8,7 @@ tag: 'Password,Lockbox'
 ---
 **Earlier as part of the test pilot (for iOS users), Mozilla’s Firefox Lockbox app is now available for Android users.**
 
-* The Firefox Lockbox password manager app allows users to ****securely store passwords,**** which are already stored in the Mozilla Firefox browser. Therefore, a downside appears; it doesn’t let users **add new passwords** or **delete the existing ones.** with 256-bit end-to-end encryption, the Lockbox app allows users to retrieve his or her passwords with ease.
+* The Firefox Lockbox password manager app allows users to **securely store passwords,** which are already stored in the Mozilla Firefox browser. Therefore, a downside appears; it doesn’t let users **add new passwords** or **delete the existing ones.** with 256-bit end-to-end encryption, the Lockbox app allows users to retrieve his or her passwords with ease.
 
   ![firefox](https://res.cloudinary.com/kd/image/upload/v1553763787/KD/firefox-lockbox-1.jpg)
   
