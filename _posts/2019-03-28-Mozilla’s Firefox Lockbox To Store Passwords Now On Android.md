@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: Mozilla’s Firefox Lockbox To Store Passwords Now On Android
 image: >-
