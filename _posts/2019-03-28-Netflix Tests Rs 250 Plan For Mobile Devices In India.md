@@ -1,7 +1,10 @@
 ---
-published: false
+layout: post
+title: Netflix Tests Rs 250 Plan For Mobile Devices In India
+image: https://res.cloudinary.com/kd/image/upload/v1553762631/KD/Netflix-Instant-replay-feature-640x360.jpg
+categories: Netflix
 ---
-**** Netflix has announced pilot testing of a mobile-only plan in India which costs Rs 250 ($4) per month, that is, half the price of its previous basic plan in the country.****
+**Netflix has announced pilot testing of a mobile-only plan in India which costs Rs 250 ($4) per month, that is, half the price of its previous basic plan in the country.**
 
 * The plan will be made available to ****randomly-selected new users**** but not the existing users. It is to be noted that this exclusive plan will offer ****single screen viewing**** and will only be available in standard definition.
 
