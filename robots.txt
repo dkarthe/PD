@@ -15,6 +15,6 @@ Allow: /
 
 Disallow: page
 
-Sitemap: https://kd..ax/sitemap.xml
+Sitemap: https://kd.ax/sitemap.xml
 
 
