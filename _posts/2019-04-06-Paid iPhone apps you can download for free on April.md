@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paid iPhone apps you can download for free on April
-img: https://i1.wp.com/awsads.com/wp-content/uploads/2019/04/free-apps-apr-6-1.jpg?w=1176&ssl=1
+image: https://i1.wp.com/awsads.com/wp-content/uploads/2019/04/free-apps-apr-6-1.jpg?w=1176&ssl=1
 categories: iPhone Apps
 ---
 
