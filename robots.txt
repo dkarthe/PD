@@ -13,8 +13,6 @@ Allow: /
 User-agent: Googlebot-Mobile
 Allow: /
 
-Disallow: page
-
 Sitemap: https://kd.ax/sitemap.xml
 
 
