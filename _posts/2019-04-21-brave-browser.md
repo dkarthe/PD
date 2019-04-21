@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brave Browser: Secure, Fast & Private Web Browser with Adblocker
+title: Brave Browser Secure, Fast & Private Web Browser with Adblocker
 image: https://www.theblockcrypto.com/wp-content/uploads/2018/12/Feature-foto.jpg
 ---
 
