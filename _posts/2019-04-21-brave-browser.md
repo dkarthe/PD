@@ -2,6 +2,7 @@
 layout: post
 title: Brave Browser Secure, Fast & Private Web Browser with Adblocker
 image: https://www.theblockcrypto.com/wp-content/uploads/2018/12/Feature-foto.jpg
+description: The Brave browser is a fast, private and secure web browser for PC and mobile. Enjoy a faster ad-free browsing experience. Save Money. Block Ads & Trackers. Browse Up To 3x Fast. Browse Fast. Block Ads & Trackers.
 ---
 
 
