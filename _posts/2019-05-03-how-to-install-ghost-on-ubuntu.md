@@ -37,6 +37,7 @@ ssh root@your_server_ip
 adduser <user>
 ```
 > Note: Using the user name `ghost` causes conflicts with the Ghost-CLI, so it’s important to use an alternative name.
+
 ```
 # Add user to superuser group to unlock admin privileges
 usermod -aG sudo <user>
