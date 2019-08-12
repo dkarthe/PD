@@ -17,7 +17,7 @@ We can do it on our own for free using Google drive as our backup host. I've dev
 Setup will be simple and straight forward. Whole setup process will be interactive. You just have to run following two commands on your blog server.
 
 ```
-git clone https://github.com/vicke4/ghost-backup && cd ghost-backup
+git clone https://github.com/dkarthe/ghost-backup && cd ghost-backup
 python3 setup.py
 ```
 After executing the above two commands, you'll be welcomed by an interactive command line interface. There will be on screen instructions. Still, I'll walk you through each step.
