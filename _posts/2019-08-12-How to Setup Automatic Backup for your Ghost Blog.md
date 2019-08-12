@@ -50,20 +50,28 @@ Read - Create a nice AMP template for your Ghost blog.
 ## When the Backup will happen
 Backup task will be scheduled to run at midnight (i.e) 12 in the night. Timezone will be of your blog server. To change the timezone or to change the time at which the task runs daily you can run the following command.
 
-```sudo dpkg-reconfigure tzdata```
+```
+sudo dpkg-reconfigure tzdata
+```
 
 After changing your timezone, you've to restart cron to make the changes take effect.
 
-```sudo service cron restart```
+```
+sudo service cron restart
+```
 
 ## How to Restore Backup
 Download the archive from your Google Drive. Use scp to transfer the files from your local machine to server. To unpack the archive use the below command.
 
-```tar -xvzf filename.tar.gz```
+```
+tar -xvzf filename.tar.gz
+```
 
 Finally, dump the .sql file to your database.
 
-`mysql -hhostname -uroot -ppassword dbname < filename.sql`
+```
+mysql -hhostname -uroot -ppassword dbname < filename.sql
+```
 Replace the `hostname`, `root`, `password`, `dbname` with what is appropriate for you.
 
 ## Troubleshooting
@@ -72,17 +80,25 @@ This section will deal with the possible issues you'll face during setup or back
 ## Permission denied error
 Sometimes the logged in user will not have access to copy the script files to the `/opt` directory. In that case run the following command to eliminate the issue. This happens during setup.
 
-```sudo setfacl -R -m u:$(whoami):rwx /opt```
+```
+sudo setfacl -R -m u:$(whoami):rwx /opt
+```
 
-```setfacl: command not found```
+```
+setfacl: command not found
+```
 
 If you get the above error, install acl utility.
 
-```sudo apt install acl```
+```
+sudo apt install acl
+```
 
 If you had setup backup for images or themes, When you don't have write access to the images or themes directory, you'll get exception during the execution of backup script. In that case run the following command.
 
-```sudo setfacl -R -m u:$(whoami):rwx /var/www/ghost/content```
+```
+sudo setfacl -R -m u:$(whoami):rwx /var/www/ghost/content
+```
 Replace the marked path with yours if you have different installation path. Permission denied is the most common error during setup. If you get this error anywhere during the process, replace the marked path with the path reported by the error.
 
 ## Privacy Policy
